@@ -1,0 +1,41 @@
+{
+  "files": {
+    "static/js/0.f960b793.chunk.js": "/static/js/0.f960b793.chunk.js",
+    "static/js/0.f960b793.chunk.js.map": "/static/js/0.f960b793.chunk.js.map",
+    "main.css": "/static/css/main.5a49e64b.chunk.css",
+    "main.js": "/static/js/main.ef1e61a2.chunk.js",
+    "main.js.map": "/static/js/main.ef1e61a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd54b341.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd54b341.js.map",
+    "static/css/3.ab75b8d7.chunk.css": "/static/css/3.ab75b8d7.chunk.css",
+    "static/js/3.7293f9ac.chunk.js": "/static/js/3.7293f9ac.chunk.js",
+    "static/js/3.7293f9ac.chunk.js.map": "/static/js/3.7293f9ac.chunk.js.map",
+    "static/css/4.5e149c13.chunk.css": "/static/css/4.5e149c13.chunk.css",
+    "static/js/4.d323bf27.chunk.js": "/static/js/4.d323bf27.chunk.js",
+    "static/js/4.d323bf27.chunk.js.map": "/static/js/4.d323bf27.chunk.js.map",
+    "static/css/5.938a2a1d.chunk.css": "/static/css/5.938a2a1d.chunk.css",
+    "static/js/5.5e4adab8.chunk.js": "/static/js/5.5e4adab8.chunk.js",
+    "static/js/5.5e4adab8.chunk.js.map": "/static/js/5.5e4adab8.chunk.js.map",
+    "static/js/6.fba493d3.chunk.js": "/static/js/6.fba493d3.chunk.js",
+    "static/js/6.fba493d3.chunk.js.map": "/static/js/6.fba493d3.chunk.js.map",
+    "static/js/7.3ea72848.chunk.js": "/static/js/7.3ea72848.chunk.js",
+    "static/js/7.3ea72848.chunk.js.map": "/static/js/7.3ea72848.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.ab75b8d7.chunk.css.map": "/static/css/3.ab75b8d7.chunk.css.map",
+    "static/css/4.5e149c13.chunk.css.map": "/static/css/4.5e149c13.chunk.css.map",
+    "static/css/5.938a2a1d.chunk.css.map": "/static/css/5.938a2a1d.chunk.css.map",
+    "static/css/main.5a49e64b.chunk.css.map": "/static/css/main.5a49e64b.chunk.css.map",
+    "static/js/0.f960b793.chunk.js.LICENSE.txt": "/static/js/0.f960b793.chunk.js.LICENSE.txt",
+    "static/js/3.7293f9ac.chunk.js.LICENSE.txt": "/static/js/3.7293f9ac.chunk.js.LICENSE.txt",
+    "static/media/defaultAvatar.579de3d8.png": "/static/media/defaultAvatar.579de3d8.png",
+    "static/media/App.module.css": "/static/media/old_paper.df9de61b.jpg",
+    "static/media/HomeView.module.css": "/static/media/phone.99694fc6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd54b341.js",
+    "static/css/3.ab75b8d7.chunk.css",
+    "static/js/3.7293f9ac.chunk.js",
+    "static/css/main.5a49e64b.chunk.css",
+    "static/js/main.ef1e61a2.chunk.js"
+  ]
+}

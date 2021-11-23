@@ -1,0 +1,10 @@
+  .link {
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-weight:700;
+    color: '#2A363B';
+  }
+  .activeLink {
+text-shadow:  rgb(7, 134, 207) 3px 2px;
+  }

@@ -1,0 +1,25 @@
+  .container {
+    border-bottom: double 5px;
+  }
+  .mail {
+    font-weight: 700;
+    margin-Right: 24px;
+    margin-bottom: 10px;
+  }
+  .wrapper {
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+  }
+  .avatar {
+    margin-right: 100px;
+  }
+  .name {
+    font-size: 36px;
+    font-weight: 700;
+    color:rgb(245, 241, 4);
+    text-shadow: blue 2px 1px;
+    text-transform: uppercase;
+  }
+  .button {
+flex-basis: 30%;  }
